@@ -1,2 +1,4 @@
 # FisheriesScrapperGO
-Example project
+
+## Run
+`go run main.go`
