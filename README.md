@@ -1,0 +1,2 @@
+# FisheriesScrapperGO
+Example project
